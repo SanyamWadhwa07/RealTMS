@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+transformers>=4.39.3
+diffusers>=0.27.2
+accelerate>=0.29.3
+openai-whisper>=20231117
+gradio>=4.19.2
+fastapi>=0.110.2
+uvicorn[standard]>=0.29.0
+gtts>=2.5.1
+pyttsx3>=2.90
+scipy>=1.13.0
+ftfy>=6.2.0
+sentencepiece>=0.2.0
+deep-translator>=1.11.4
