@@ -1,6 +1,6 @@
 # 🚀 RealTMS: Real-Time Multimodal Translator
 
-RealTTS is a real-time multimodal translator that converts speech to speech in different languages while also generating images based on the translated text. It leverages cutting-edge AI models like Whisper for ASR (speech recognition), SeamlessM4T for multilingual translation, Stable Diffusion for text-to-image generation, and gTTS for text-to-speech synthesis.
+RealTMS is a real-time multimodal translator that converts speech to speech in different languages while also generating images based on the translated text. It leverages cutting-edge AI models like Whisper for ASR (speech recognition), SeamlessM4T for multilingual translation, Stable Diffusion for text-to-image generation, and gTTS for text-to-speech synthesis.
 
 ## Features
 
